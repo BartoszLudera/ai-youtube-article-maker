@@ -1,10 +1,10 @@
-#YouTube Summary Generator
+# YouTube Summary Generator
 
-##Description:
+## Description:
 
 This project is a server-side rendered (SSR) application designed to assist users in creating concise summaries based on links to YouTube videos. Leveraging the OpenAI API, the application generates summaries automatically. The backend is developed using Django, providing robust functionality and seamless integration with the OpenAI service. On the frontend, HTML and Tailwind CSS are utilized to ensure a clean and intuitive user interface.
 
-##Key Features:
+## Key Features:
 
 Automatic Summarization: Instantly generate summaries based on YouTube video links.
 OpenAI Integration: Harness the power of OpenAI's natural language processing capabilities for accurate and coherent summaries.
@@ -13,14 +13,14 @@ Django Backend: Benefit from Django's versatility and reliability for backend op
 Responsive Design: Enjoy a seamless user experience across various devices with responsive design powered by Tailwind CSS.
 Easy to Use: Streamlined interface for effortless navigation and summary generation.
 
-##Technologies Used:
+## Technologies Used:
 
 Django
 HTML
 Tailwind CSS
 OpenAI API
 
-##Installation:
+## Installation:
 
 Clone this repository to your local machine.
 Navigate to the project directory.
